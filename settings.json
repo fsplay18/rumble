@@ -1,0 +1,100 @@
+{
+    "License": "Contact Admin",
+    "Account": {
+        "Username": "xxxxxxxx",
+        "Password": "xxxxxxxx"
+    },
+    "Play Game": {
+        "Mode": "dice",
+        "Currency": "gem",
+        "Show Price": "ON",
+        "Delay Bet(ms)": "0",
+        "Classic Display": "False",
+        "Fast Bet": "True"
+    },
+    "Target": {
+        "Profit (amt)": "0",
+        "Profit (%)": "1",
+        "Balance": "0",
+        "Lose": "0"
+    },
+    "Stopwin": {
+        "On Profit": "True",
+        "If Maxbet": "0",
+        "If Balance Drop (%)": "0",
+        "After LS": "0",
+        "After Bet": "0",
+        "After Playtime (Minutes)": "0"
+    },
+    "Repeat Play": {
+        "Status": "OFF",
+        "Total Session": "5",
+        "Delay (sec)": "60"
+    },
+    "Auto Vault": {
+        "Status": "OFF",
+        "Trigger Balance": "12000",
+        "Amount to Vault": "10000"
+    },
+    "History Bet": {
+        "Status": "ON",
+        "Auto Remove": "True",
+        "Size Limit (MB)": "5"
+    },
+    "Reset Seed": {
+        "Status": "ON",
+        "At Start Game": "FALSE",
+        "After Bet": "1200",
+        "After Play (min)": "120"
+    },
+    "Bet Roll": {
+        "Random": "FALSE",
+        "Bet High": "FALSE",
+        "Switch Hi / Low": {
+            "Status": "OFF",
+            "If Win": "1",
+            "If Lose": "1"
+        }
+    },
+    "Bet Amount": {
+        "Base Bet": "0.00000001",
+        "Preroll Bet": "0.00000001",
+        "Shoot Bet": "1",
+        "Auto Shoot": {
+            "Status": "OFF",
+            "After Win Streak": "0",
+            "After Lose Streak": "6"
+        },
+        "Constant Divider": {
+            "Status": "OFF",
+            "Re-Calculate on Profit": "False",
+            "Divider": "5000000"
+        }
+    },
+    "Betset": {
+        "Martingale": "ON",
+        "Rumble-X1": "OFF",
+        "Rumble-X2": "OFF",
+        "Rumble-X3": "OFF",
+        "Rumble-X4": "OFF",
+        "Rumble-X5": "OFF",
+        "Rumble-X6": "OFF",
+        "Rumble-S1": "OFF",
+        "Dual Mining": "OFF",
+        "JackHunter": "OFF",
+        "Multi Rumble": "OFF",
+        "Po Hunter": "OFF",
+        "Progressif": "OFF",
+        "R-Allemb": "OFF",
+        "Regressor": "OFF",
+        "Rumble Miner": "OFF",
+        "RumbleNote": "OFF",
+        "Space Jumper": "OFF",
+        "Sprint-X": "OFF",
+        "Sprint": "OFF",
+        "Wager": "OFF",
+        "Role Rumble": "OFF",
+        "Fusion": "OFF",
+        "Labouchere": "OFF"
+    }
+}
